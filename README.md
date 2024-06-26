@@ -37,7 +37,7 @@ It handles the management of the voters' model, as well as the generation of the
   
 2.- Create a virtual environment (It is recommended to avoid version conflicts in packages) :
 
-	python virtualenv .venv
+	python -m venv tutorial-env
 
 3.- Active virtual environment.
 
